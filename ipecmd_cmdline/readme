@@ -1,0 +1,4 @@
+1) test board is olimex PIC-USB-STK-A
+2) environment is MPLABX 6.10 => hex location ./dist/default/production/<project_name>
+3) command line environment => cygwin
+
